@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1791BFA927D7E19D006E8DD2 /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1791BFA827D7E19D006E8DD2 /* AboutViewController.swift */; };
 		17F13A9C27CBDEA900F80F83 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17F13A9B27CBDEA900F80F83 /* AppDelegate.swift */; };
 		17F13A9E27CBDEA900F80F83 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17F13A9D27CBDEA900F80F83 /* SceneDelegate.swift */; };
 		17F13AA027CBDEA900F80F83 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17F13A9F27CBDEA900F80F83 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1791BFA827D7E19D006E8DD2 /* AboutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
 		17F13A9827CBDEA900F80F83 /* BullsEye.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BullsEye.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		17F13A9B27CBDEA900F80F83 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		17F13A9D27CBDEA900F80F83 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 			children = (
 				17F13A9B27CBDEA900F80F83 /* AppDelegate.swift */,
 				17F13A9D27CBDEA900F80F83 /* SceneDelegate.swift */,
+				1791BFA827D7E19D006E8DD2 /* AboutViewController.swift */,
 				17F13A9F27CBDEA900F80F83 /* ViewController.swift */,
 				17F13AA127CBDEA900F80F83 /* Main.storyboard */,
 				17F13AA727CBDEAA00F80F83 /* Assets.xcassets */,
@@ -144,6 +147,7 @@
 				17F13AA027CBDEA900F80F83 /* ViewController.swift in Sources */,
 				17F13A9C27CBDEA900F80F83 /* AppDelegate.swift in Sources */,
 				17F13AA627CBDEA900F80F83 /* BullsEye.xcdatamodeld in Sources */,
+				1791BFA927D7E19D006E8DD2 /* AboutViewController.swift in Sources */,
 				17F13A9E27CBDEA900F80F83 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
